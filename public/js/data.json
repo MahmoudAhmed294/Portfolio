@@ -1,0 +1,88 @@
+{
+    "work":[
+        {
+            "id":1,
+             "iconname":"icon fa fa-chain fa-2x",
+             "body":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium expedita autem corporis quidem dolorem accusamus corrupti perspiciatis hic qui! Odit harum cupiditate modi vitae eos nostrum voluptatem voluptas, consequatur obcaecati"
+        },
+        {
+            "id":2,
+             "iconname":"icon fa fa-bolt fa-2x",
+             "body":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium expedita autem corporis quidem dolorem accusamus corrupti perspiciatis hic qui! Odit harum cupiditate modi vitae eos nostrum voluptatem voluptas, consequatur obcaecati"
+        },
+        {
+            "id":3,
+             "iconname":"icon fa fa-tachometer fa-2x",
+             "body":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium expedita autem corporis quidem dolorem accusamus corrupti perspiciatis hic qui! Odit harum cupiditate modi vitae eos nostrum voluptatem voluptas, consequatur obcaecati"
+        }
+    ],
+    "portfolio":[
+        {
+            "id":1,
+            "image":"/images/Portfolio/portfolio-img1.jpg",
+            "type": "HTML"
+        },
+        {
+            "id":2,
+            "image":"/images/Portfolio/portfolio-img2.jpg",
+            "type": "HTML"
+
+        },
+        {
+            "id":3,
+            "image":"images/Portfolio/portfolio-img3.jpg",
+            "type": "Photoshop"
+
+        },
+        {
+            "id":4,
+            "image":"images/Portfolio/portfolio-img4.jpg",
+            "type": "Photoshop"
+
+        },
+        {
+            "id":5,
+            "image":"images/Portfolio/portfolio-img5.jpg",
+            "type": "Wordpress"
+        },
+        {
+            "id":6,
+            "image":"images/Portfolio/portfolio-img6.jpg",
+            "type": "Wordpress"
+
+        },
+        {
+            "id":7,
+            "image":"/images/Portfolio/portfolio-img7.jpg",
+            "type": "Mobile"
+        },
+        {
+            "id":8,
+            "image":"images/Portfolio/portfolio-img8.jpg",
+            "type": "Mobile"
+
+        }
+    ],
+    "social":[
+        {
+            "id":1,
+            "icon":"icon fa fa-facebook fa-lg",
+            "title":"follow me on",
+            "body":"social Facebook"
+
+        },
+        {
+            "id":2,
+            "icon":"icon fa fa-twitter fa-lg",
+            "title":"follow me on",
+            "body":"social twitter"
+
+        },
+        {
+            "id":3,
+            "icon":"icon fa fa-pinterest fa-lg",
+            "title":"follow me on",
+            "body":"social pinterest"
+        }
+    ]
+}
